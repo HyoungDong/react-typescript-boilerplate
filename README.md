@@ -95,4 +95,18 @@ module.exports = {
 }
 ```
 
-
+### Directory
+```
+src
+ ├─components
+ │  │  
+ │  ├─atoms
+ │  ├─molecules     
+ │  └─organisms
+ │                  
+ ├─commons
+ ├─network
+ ├─pages 
+ ├─styles
+ ├─types
+```
